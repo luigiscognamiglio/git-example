@@ -1,2 +1,1 @@
-# git-example
-Repository used only for education purposes
+Merge git-example with git-example2
